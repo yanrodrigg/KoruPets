@@ -1,1 +1,1 @@
-Este Projeto foi dedicado ao Modulo de Back End da Escola Koru. No projeto foi criado um CRUD para um E-commerce de Petshop. Foi utilizado para construção do projeto Python conectando com o banco de dados Sqllite 3.
+Esse Projeto foi dedicado ao Modulo de Back End da Escola Koru. No projeto foi criado um CRUD para um E-commerce de Petshop. Foi utilizado para construção do projeto Python conectando com o banco de dados Sqllite 3.
